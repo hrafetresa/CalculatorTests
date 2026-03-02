@@ -408,8 +408,9 @@ namespace CalculatorTests
                 Assert.IsNotNull(okButton, "Окно с ошибкой не появилось!");
                 okButton?.Click();
                 app.Close();
+
             }
         }
-        //гитхабйойо хммм
+
     }
 }
